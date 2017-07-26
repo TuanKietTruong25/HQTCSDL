@@ -20,5 +20,16 @@ namespace DAO
             dt = dtp.GetDataTable(sqlSelect);
             return dt;
         }
+
+        public DataTable LayTTLT()
+        {
+            string s = "sproc_GetLichTrinh";
+            dtp = new DataProvider();
+            dt = new DataTable();
+            dt = dtp.GetTable(s);
+
+            return dt;
+
+        }
     }
 }

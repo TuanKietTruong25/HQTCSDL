@@ -66,6 +66,7 @@ namespace DAO
             }
             return dt;
         }
+
         /// <summary>
         /// Thực thi một lệnh Insert, Update, hoặc Delete.
         /// trả về số dòng dữ liệu ảnh hưởng
@@ -78,9 +79,10 @@ namespace DAO
             try
             {
                 Connect();
-                cmd = new SqlCommand();
+                cmd = conn.CreateCommand();
                 cmd.CommandText = query;
                 result = cmd.ExecuteNonQuery();
+               
             }
             catch (Exception ex)
             {
@@ -91,6 +93,33 @@ namespace DAO
                 DisConnect();
             }
             return result;
+        }
+
+        /// <summary>
+        /// Thi hành một Store Producre trên căn cứ dữ liệu
+        /// </summary>
+        /// <param name="sprocName">Tên của StoreProdure</param>
+        /// <returns></returns>
+        public DataTable GetTable(string sprocName)
+        {
+            try
+            {
+                Connect();
+                cmd = new SqlCommand(sprocName,conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                dt = new DataTable();
+                da = new SqlDataAdapter(cmd);
+                da.Fill(dt);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi: " + ex.ToString());
+            }
+            finally
+            {
+                DisConnect();
+            }
+            return dt;
         }
     }
 }

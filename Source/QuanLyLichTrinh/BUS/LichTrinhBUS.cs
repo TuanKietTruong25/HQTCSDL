@@ -17,7 +17,8 @@ namespace BUS
         {
             lichTrinhDao = new LichTrinhDAO();
             dt = new DataTable();
-            dt = lichTrinhDao.XemThongTinLichTrinh();
+            //dt = lichTrinhDao.XemThongTinLichTrinh();
+            dt = lichTrinhDao.LayTTLT();
             return dt;
         }
     }

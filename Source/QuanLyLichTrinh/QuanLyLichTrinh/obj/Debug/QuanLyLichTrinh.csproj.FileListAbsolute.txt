@@ -29,3 +29,23 @@ C:\Users\Totoro\Desktop\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrin
 D:\Hoc Tap Tren Lop\HC HK2\He QTCSDL\Do an nhom\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\QuanLyLichTrinh.exe.config
 D:\Hoc Tap Tren Lop\HC HK2\He QTCSDL\Do an nhom\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.exe
 D:\Hoc Tap Tren Lop\HC HK2\He QTCSDL\Do an nhom\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.pdb
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\QuanLyLichTrinh.exe.config
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\QuanLyLichTrinh.exe
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\QuanLyLichTrinh.pdb
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\BUS.dll
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\DTO.dll
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\DAO.dll
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\BUS.pdb
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\DTO.pdb
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\bin\Debug\DAO.pdb
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.csprojResolveAssemblyReference.cache
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.frmChonTaiXe.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.frmChonTuyenDuong.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.frmMain.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.frmThongTinLichTrinh.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.frmThongTinQuanLy.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.frmThongTinTaiXe.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.Properties.Resources.resources
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.csproj.GenerateResource.Cache
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.exe
+C:\Users\Totoro\Desktop\HQTCSDL\Source\QuanLyLichTrinh\QuanLyLichTrinh\obj\Debug\QuanLyLichTrinh.pdb
