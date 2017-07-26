@@ -1,0 +1,14 @@
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\bin\Debug\DAO.dll
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\bin\Debug\DAO.pdb
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\bin\Debug\DTO.dll
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\bin\Debug\DTO.pdb
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\obj\Debug\DAO.dll
+C:\Users\Totoro\Downloads\Compressed\QuanLyLichTrinh\DAO\obj\Debug\DAO.pdb
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\bin\Debug\DAO.dll
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\bin\Debug\DAO.pdb
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\bin\Debug\DTO.dll
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\bin\Debug\DTO.pdb
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\obj\Debug\DAO.dll
+C:\Users\Totoro\Desktop\QuanLyLichTrinh\DAO\obj\Debug\DAO.pdb
