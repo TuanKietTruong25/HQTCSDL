@@ -28,6 +28,23 @@ namespace QuanLyLichTrinh
            
             dt = taiXeBUS.XemThongTinLichTrinhCaNhan(1);
             dtgvLichTrinhCaNhan.DataSource = dt;
+
+            // gọi sp_XemLichTrinhCaNhan thay load thông tin cá nhân và lịch trình trong tháng của tài xế
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            // gọi sp_ThemTaiXe
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            // gọi sp_XoaTaiXe
+        }
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            // gọi sp_SuaTaiXe
         }
     }
 }

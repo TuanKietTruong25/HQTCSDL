@@ -113,6 +113,12 @@
     <EmbeddedResource Include="frmThongTinTaiXe.resx">
       <DependentUpon>frmThongTinTaiXe.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinTuyenDuong.resx">
+      <DependentUpon>frmThongTinTuyenDuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinXe.resx">
+      <DependentUpon>frmThongTinXe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
