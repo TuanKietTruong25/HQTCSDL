@@ -16,5 +16,26 @@ namespace QuanLyLichTrinh
         {
             InitializeComponent();
         }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            // gọi sp_ThemQuanLy
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            // gọi sp_XoaQuanLy
+        }
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            // gọi sp_SuaQuanLy
+        }
+
+        private void frmThongTinQuanLy_Load(object sender, EventArgs e)
+        {
+            // gọi sp_XemThongTinQuanLy
+            // gọi sp_XemDanhSachQuanLy
+        }
     }
 }
